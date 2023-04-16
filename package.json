@@ -1,0 +1,21 @@
+{
+  "name": "binary-search-tree",
+  "version": "1.0.0",
+  "description": "Odin project binary search tree",
+  "main": "Balanced-BST.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Confucii/binary-search-tree.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Confucii/binary-search-tree/issues"
+  },
+  "homepage": "https://github.com/Confucii/binary-search-tree#readme"
+}
